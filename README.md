@@ -1,7 +1,7 @@
 ### Hello! I’m Darryl Norris. 👋
 My name is Darryl Norris Marquez. In most places online, you can find as itsdarrylnorris. I am a software engineer currently working @ShopPad, previously @HPE. I like to build websites and web applications in PHP, JavaScript, and Golang. I have an unhealthy obsession with Mexican food (🌯) and mechanical keyboards (⌨️).
 
-Currently working webscraping tools.
+🎭 Currently working webscraping tools 🕸️
 
 
 <!--
