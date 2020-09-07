@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hello! I’m Darryl Norris. 👋
+My name is Darryl Norris Marquez. In most places online, you can find as itsdarrylnorris. I am a software engineer currently working @ShopPad, previously @HPE. I like to build websites and web applications in PHP, JavaScript, and Golang. I have an unhealthy obsession with Mexican food (🌯) and mechanical keyboards (⌨️).
+
+Currently working webscraping tools.
+
 
 <!--
 **itsdarrylnorris/itsdarrylnorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
