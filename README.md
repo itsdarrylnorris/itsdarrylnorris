@@ -1,4 +1,10 @@
-### Hello! I’m Darryl Norris. 👋
+# Hello! I’m Darryl Norris. 👋
+
+[![LinkedIn Profile Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/darrylnorris/)
+[![Twitter Profile Badge](https://img.shields.io/badge/Twitter-Profile-9cf?style=flat&logo=twitter&logoColor=9cf&color=9cf)](https://twitter.com/itsdarrylnorris)
+[![Instagram Profile Badge](https://img.shields.io/badge/Instagram-Profile-red?style=flat&logo=instagram&logoColor=red)](https://www.instagram.com/itsdarrylnorris/)
+
+
 My name is Darryl Norris Marquez. In most places online, you can find as itsdarrylnorris. I am a software engineer currently working [@ShopPad](https://twitter.com/shoppad), previously [@HPE](https://twitter.com/hpe). I like to build websites and web applications in PHP, JavaScript/TypeScript, and Golang. I have an unhealthy obsession with Mexican food (🌯) and mechanical keyboards (⌨️).
 
 
